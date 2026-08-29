@@ -39,8 +39,8 @@ Alongside it, I am working on direct bank payments for ecommerce, apps, and merc
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/J0UH/hermes-agent-runtime"><img src="assets/cards/personal-ai-employee.webp" alt="A durable process resumes from a protected checkpoint after an interruption" width="100%" /></a><br />
-  <strong><a href="https://github.com/J0UH/hermes-agent-runtime">Personal AI employee</a></strong><br />
+  <a href="https://github.com/J0UH/personal-ai-employee"><img src="assets/cards/personal-ai-employee.webp" alt="A durable process resumes from a protected checkpoint after an interruption" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/personal-ai-employee">Personal AI employee</a></strong><br />
   <sub>A persistent AI worker that can take assignments, continue over time, ask for decisions, and return checked outcomes.</sub>
 </td>
 <td width="50%" valign="top">
@@ -57,12 +57,12 @@ Agents earn their place when they can keep useful work moving without hiding aut
 
 | Capability | Project |
 | --- | --- |
-| Work that continues across interruptions | [Personal AI employee](https://github.com/J0UH/hermes-agent-runtime) |
-| Review automation with persisted sign-off | [Verified code review assistant](https://github.com/J0UH/thor-code-review-agent) |
-| Memory, goals, preparation, and follow-through | [Life companion](https://github.com/J0UH/lifeos-adaptation) |
-| Private communication and meeting context | [Communication companion](https://github.com/J0UH/iris-personal-assistant) |
-| Useful workflows that survive a change of tool | [Portable agent capabilities](https://github.com/J0UH/cross-harness-agent-tooling) |
-| Project state and human control | [Project intelligence and coordination](https://github.com/J0UH/atlas-project-intelligence) |
+| Work that continues across interruptions | [Personal AI employee](https://github.com/J0UH/personal-ai-employee) |
+| Review automation with persisted sign-off | [Verified code review assistant](https://github.com/J0UH/verified-code-review-assistant) |
+| Memory, goals, preparation, and follow-through | [Life companion](https://github.com/J0UH/life-companion) |
+| Private communication and meeting context | [Private communication companion](https://github.com/J0UH/private-communication-companion) |
+| Useful workflows that survive a change of tool | [Portable agent capabilities](https://github.com/J0UH/portable-agent-capabilities) |
+| Project state and human control | [Project intelligence and coordination](https://github.com/J0UH/project-intelligence-coordination) |
 
 ## More systems
 
@@ -114,12 +114,6 @@ I start with the operating problem and the smallest version that creates real va
 - Reuse existing technology when it fits, with proper credit and licence discipline.
 - Stay close to the code, the people using it, and the people operating it.
 - Let production teach the next iteration.
-
-## Context and ownership
-
-Much of the financial work was built at Aryze with teams across engineering, product, operations, compliance, design, and outside specialists. Aryze owns its company source and IP. The public pages describe the architecture and capability without publishing that source, customer data, credentials, or private operating details.
-
-The portfolio also includes personal work and hands-on adaptations of open-source systems. Those pages keep upstream authorship and licences visible.
 
 ## Work with me
 
