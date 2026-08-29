@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="Agentic systems, tools, memory, approval, and evidence" width="100%" />
+</p>
+
 # J0UH
 
 I build systems that have to survive contact with the real world.
