@@ -1,58 +1,138 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Agentic systems, tools, memory, approval, and evidence" width="100%" />
+  <img src="assets/hero.webp" alt="Payment, programmable asset, settlement, and agent systems connected through one operating model" width="100%" />
 </p>
 
 # J0UH
 
-I build systems that have to survive contact with the real world.
+I build payment infrastructure around direct bank payments, programmable assets, always-on digital settlement, and agents that can operate financial workflows safely.
 
-Right now, most of my attention is on agentic systems: durable agents, controlled tool use, memory, evaluation, human authority, and the operating layer that turns a model into something useful. The work builds on years spent in payments, banking, stablecoins, exchange infrastructure, product development, and the internal systems needed to run a financial company.
+MoneyOS sits at the centre of that work. The aim is to bring banking and open-finance rails, programmable assets, on-chain settlement, and agent-driven payment operations into one coherent model without giving up control or evidence.
 
-I work as a developer, technical lead, architect, builder, and maintainer. I am comfortable moving between code, product, infrastructure, operations, teams, legal constraints, and open-source licences. I have led technical teams and coordinated work across product, engineering, operations, compliance, commercial, and external specialists. I like finding the shortest path to real value, cutting scope where it is cheap, and refusing to cut the parts that make a system trustworthy.
+Alongside it, I am working on direct bank payments for ecommerce, apps, and merchant hardware. The customer authorises through their bank while the merchant gets clear payment state, recovery, and reconciliation without a card scheme or conventional gateway stack.
 
-[Reach me](mailto:ju@jomena.group?subject=Let%20us%20build%20something%20useful) | [Book a technical call](mailto:ju@jomena.group?subject=Book%20a%20technical%20call)
+## What I am building now
 
-## Current work in agents
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/moneyos-platform"><img src="assets/cards/moneyos-platform.webp" alt="Accounts, policy, evidence, and automation join through one programmable money layer" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/moneyos-platform">MoneyOS</a></strong><br />
+  <sub>Banking and open-finance rails, programmable assets, blockchain settlement, and agent-controlled payment workflows in one operating model.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/open-finance-payments"><img src="assets/cards/merchant-open-banking.webp" alt="A merchant payment surface connects to bank authorisation through a controlled service boundary" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/open-finance-payments">Direct bank payments</a></strong><br />
+  <sub>Account-to-account checkout for ecommerce, apps, and merchant hardware, using bank authorisation without a card scheme or conventional gateway stack.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/stablecoin-factory"><img src="assets/cards/stablecoin-factory.webp" alt="A configurable issuance line produces governed digital assets with recorded evidence" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/stablecoin-factory">Programmable asset issuance</a></strong><br />
+  <sub>Controlled issuance for fiat-linked money, precious metals, commodities, and other tokenised capital-market assets.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/token-bridge-sdk"><img src="assets/cards/cross-chain-settlement.webp" alt="Digital and fiat settlement paths meet at one recorded reconciliation point" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/token-bridge-sdk">Always-on digital settlement</a></strong><br />
+  <sub>Same-chain transfers, cross-chain routing, atomic exchange, and reconciliation between round-the-clock digital value and fiat accounts.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/hermes-agent-runtime"><img src="assets/cards/personal-ai-employee.webp" alt="A durable process resumes from a protected checkpoint after an interruption" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/hermes-agent-runtime">Personal AI employee</a></strong><br />
+  <sub>A persistent AI worker that can take assignments, continue over time, ask for decisions, and return checked outcomes.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/agentic-systems"><img src="assets/cards/ai-operations.webp" alt="Specialised AI workers occupy distinct bays behind one shared operating boundary" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/agentic-systems">AI operations and orchestration</a></strong><br />
+  <sub>Agents that handle email, CRM updates, preparation, coordination, and follow-through for personal and business work.</sub>
+</td>
+</tr>
+</table>
 
-| Project | What it covers |
+## Bounded automation and agent systems
+
+Agents earn their place when they can keep useful work moving without hiding authority, evidence, or privacy. This work covers a persistent AI employee, verified code review, private companions, portable workflows, and project coordination.
+
+| Capability | Project |
 | --- | --- |
-| [Hermes agent runtime](https://github.com/J0UH/hermes-agent-runtime) | A durable autonomous coding runtime with bounded tools, OAuth, orchestration, and recovery. |
-| [Thor code review agent](https://github.com/J0UH/thor-code-review-agent) | A Slack-based review agent with bounded context, enforced completion, and durable evidence. |
-| [Iris personal assistant agent](https://github.com/J0UH/iris-personal-assistant) | A stateful WhatsApp assistant for chat, meeting, and calendar context with privacy controls. |
-| [LifeOS adaptation](https://github.com/J0UH/lifeos-adaptation) | Running and adapting an open-source life operating system across memory, skills, routing, and personal context. |
-| [Cross-harness agent tooling](https://github.com/J0UH/cross-harness-agent-tooling) | Skills, hooks, bootstrap flows, and operating patterns across Pi, Hermes, Codex, and other agent harnesses. |
-| [Atlas project intelligence](https://github.com/J0UH/atlas-project-intelligence) | Project state, agent coordination, durable decisions, and human control across technical work. |
+| Work that continues across interruptions | [Personal AI employee](https://github.com/J0UH/hermes-agent-runtime) |
+| Review automation with persisted sign-off | [Verified code review assistant](https://github.com/J0UH/thor-code-review-agent) |
+| Memory, goals, preparation, and follow-through | [Life companion](https://github.com/J0UH/lifeos-adaptation) |
+| Private communication and meeting context | [Communication companion](https://github.com/J0UH/iris-personal-assistant) |
+| Useful workflows that survive a change of tool | [Portable agent capabilities](https://github.com/J0UH/cross-harness-agent-tooling) |
+| Project state and human control | [Project intelligence and coordination](https://github.com/J0UH/atlas-project-intelligence) |
 
-## Systems I know how to build
+## More systems
 
-| Area | Working portfolio |
-| --- | --- |
-| [Agentic systems](https://github.com/J0UH/agentic-systems) | Durable agents, controlled tools, memory, evaluation, and human authority in real operating environments. |
-| [Exchange and market infrastructure](https://github.com/J0UH/exchange-market-infrastructure) | DEX, CEX and DAX architecture, routing, liquidity, market data, orders, settlement, and operations. |
-| [Open finance and payments](https://github.com/J0UH/open-finance-payments) | Bank-to-bank payments, merchant products, credentials, webhooks, reconciliation, and integration experience. |
-| [Stablecoin infrastructure](https://github.com/J0UH/stablecoin-infrastructure) | Issuance, digital cash, contract operations, vaults, bridges, service platforms, and usable product controls. |
-| [Money and operations systems](https://github.com/J0UH/money-operations-systems) | ERP, CRM, treasury, reconciliation, work management, and the operating state behind financial products. |
-| [Product engineering](https://github.com/J0UH/product-engineering) | Product architecture, interfaces, developer experience, delivery, documentation, and systems that survive production. |
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/agentic-systems"><img src="assets/cards/agentic-systems.webp" alt="A controlled execution loop passing through a deliberate authority gate" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/agentic-systems">Agentic systems</a></strong><br />
+  <sub>Durable agents, controlled tools, memory, evaluation, and human authority in real operating environments.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/exchange-market-infrastructure"><img src="assets/cards/exchange-market-infrastructure.webp" alt="Parallel market channels converge through controlled junctions onto one settlement floor" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/exchange-market-infrastructure">Exchange and market infrastructure</a></strong><br />
+  <sub>DEX, CEX and DAX architecture, routing, liquidity, market data, orders, settlement, and operations.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/open-finance-payments"><img src="assets/cards/open-finance-payments.webp" alt="Two institutional frames share a direct channel and a separate reconciliation loop" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/open-finance-payments">Open finance and payments</a></strong><br />
+  <sub>Bank-to-bank payments, merchant products, credentials, webhooks, reconciliation, and integration experience.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/stablecoin-infrastructure"><img src="assets/cards/stablecoin-infrastructure.webp" alt="Controlled issuance feeds a protected reserve while a parallel audit channel records every stage" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/stablecoin-infrastructure">Stablecoin and programmable asset infrastructure</a></strong><br />
+  <sub>Fiat-linked money, commodities, precious metals, digital cash, contract operations, vaults, settlement, and product controls.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/money-operations-systems"><img src="assets/cards/money-operations-systems.webp" alt="A clean product surface is supported by a deep operational structure beneath it" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/money-operations-systems">Money and operations systems</a></strong><br />
+  <sub>ERP, CRM, treasury, reconciliation, work management, and the operating state behind financial products.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/J0UH/product-engineering"><img src="assets/cards/product-engineering.webp" alt="A finished load-bearing structure extends into a new section through one precise joint" width="100%" /></a><br />
+  <strong><a href="https://github.com/J0UH/product-engineering">Product engineering</a></strong><br />
+  <sub>Product architecture, interfaces, developer experience, delivery, documentation, and systems that survive production.</sub>
+</td>
+</tr>
+</table>
 
-## How I work
+## How I build
 
-I do not enjoy motion for its own sake. The useful question is usually smaller: what creates value now, what must be true for it to work, and which risks become expensive if we postpone them?
+I start with the operating problem and the smallest version that creates real value. I am happy to cut scope. I will not hide state, authority, failure, or licence risk to make a system look simpler than it is.
 
-That leads to a practical way of building:
+- Build the useful path first and state its limits plainly.
+- Put authority, evidence, and recovery into the design.
+- Reuse existing technology when it fits, with proper credit and licence discipline.
+- Stay close to the code, the people using it, and the people operating it.
+- Let production teach the next iteration.
 
-- Start with the real operating problem, not the fashionable architecture.
-- Build the valuable path first and state its limits honestly.
-- Keep authority, evidence, and ownership explicit.
-- Use existing systems when they fit, then adapt and orchestrate them responsibly.
-- Stay close to implementation, users, and operations.
-- Make licensing, security, and maintainability part of the design.
+## Context and ownership
 
-Teams, employees, contractors, and specialists have been part of much of this work. That collaboration does not make the architecture or engineering experience less real. It is how serious products get built.
+Much of the financial work was built at Aryze with teams across engineering, product, operations, compliance, design, and outside specialists. Aryze owns its company source and IP. The public pages describe the architecture and capability without publishing that source, customer data, credentials, or private operating details.
 
-## Aryze work
+The portfolio also includes personal work and hands-on adaptations of open-source systems. Those pages keep upstream authorship and licences visible.
 
-I co-founded Aryze and have worked across its technical and product foundations. Work produced under the Aryze umbrella remains private and owned by Aryze. The linked pages explain systems, decisions, and capabilities without publishing company source, customer data, credentials, or private operating details.
+## Work with me
 
-## Personal site
-
-A fuller website portfolio is in preparation. It will use these project pages as the technical source and add a more visual path for recruiters, founders, engineers, and anyone arriving from elsewhere on the internet.
+<table>
+<tr>
+<td width="38%" valign="top">
+  <img src="assets/portrait.webp" alt="Illustrated portrait of the builder behind J0UH on a dark architectural background" width="100%" />
+</td>
+<td width="62%" valign="top">
+  <strong>I like difficult systems with a useful outcome.</strong><br /><br />
+  Payment infrastructure, programmable assets, digital settlement, and AI operations all become interesting at the point where product ambition meets real authority, evidence, and recovery.<br /><br />
+  Building something similar, or trying to untangle a system that already exists? <a href="mailto:ju@jomena.group?subject=A%20system%20worth%20building">Email me with the context</a>.<br /><br />
+  <sub>A personal site is planned. This profile is the portfolio until it is ready.</sub>
+</td>
+</tr>
+</table>
