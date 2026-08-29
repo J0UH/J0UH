@@ -1,36 +1,54 @@
-# Jodi Usama Husain
+# J0UH
 
-Co-founder & CTO at [Aryze](https://www.aryze.io/). I build financial infrastructure, payment products, programmable-money systems, AI-enabled operations, and the product interfaces that make complex systems usable.
+I build systems that have to survive contact with the real world.
 
-My work sits across product direction, architecture, hands-on engineering, infrastructure, developer experience, and the operational detail required to ship and maintain real systems.
+Right now, most of my attention is on agentic systems: durable agents, controlled tool use, memory, evaluation, human authority, and the operating layer that turns a model into something useful. The work builds on years spent in payments, banking, stablecoins, exchange infrastructure, product development, and the internal systems needed to run a financial company.
 
-## Selected work
+I work as a developer, technical lead, architect, builder, and maintainer. I am comfortable moving between code, product, infrastructure, operations, teams, legal constraints, and open-source licences. I have led technical teams and coordinated work across product, engineering, operations, compliance, commercial, and external specialists. I like finding the shortest path to real value, cutting scope where it is cheap, and refusing to cut the parts that make a system trustworthy.
 
-- [Open Finance & Pay by Bank](https://github.com/J0UH/showcase-open-finance-payments) — payment APIs, webhooks, merchant onboarding, operational dashboards, and developer documentation
-- [Stablecoin & Programmable-Money Infrastructure](https://github.com/J0UH/showcase-stablecoin-infrastructure) — token systems, smart contracts, deployment, indexing, SDKs, and operator tooling
-- [Market, Exchange & Liquidity Infrastructure](https://github.com/J0UH/showcase-market-infrastructure) — swaps, routing, liquidity, relays, indexing, market data, and product interfaces
-- [Money & Operations Systems](https://github.com/J0UH/showcase-money-operations) — ledgers, CRM, ERP, treasury, reconciliation, workflows, and evidence systems
-- [AI Agents & Automation](https://github.com/J0UH/showcase-ai-automation) — agent orchestration, controlled tool use, review loops, retrieval, and operational automation
-- [Product Engineering & Developer Experience](https://github.com/J0UH/showcase-product-engineering) — dashboards, design systems, SDKs, documentation, demos, CI/CD, and observability
+[Reach me](mailto:ju@jomena.group?subject=Let%20us%20build%20something%20useful) | [Book a technical call](mailto:ju@jomena.group?subject=Book%20a%20technical%20call)
 
-## Current public product
+## Current work in agents
 
-[Aryze Open Finance](https://docs.aryze.io/docs) gives merchants a bank-to-bank payment flow through a REST API, payment-status webhooks, and an operational dashboard. The public documentation includes a [quickstart](https://docs.aryze.io/docs/getting-started) and [Payment API reference](https://docs.aryze.io/docs/api-reference/payment-api).
+| Project | What it covers |
+| --- | --- |
+| [Hermes agent runtime](https://github.com/J0UH/hermes-agent-runtime) | A durable autonomous coding runtime with bounded tools, OAuth, orchestration, and recovery. |
+| [Thor code review agent](https://github.com/J0UH/thor-code-review-agent) | A Slack-based review agent with bounded context, enforced completion, and durable evidence. |
+| [Iris personal assistant agent](https://github.com/J0UH/iris-personal-assistant) | A stateful WhatsApp assistant for chat, meeting, and calendar context with privacy controls. |
+| [LifeOS adaptation](https://github.com/J0UH/lifeos-adaptation) | Running and adapting an open-source life operating system across memory, skills, routing, and personal context. |
+| [Cross-harness agent tooling](https://github.com/J0UH/cross-harness-agent-tooling) | Skills, hooks, bootstrap flows, and operating patterns across Pi, Hermes, Codex, and other agent harnesses. |
+| [Atlas project intelligence](https://github.com/J0UH/atlas-project-intelligence) | Project state, agent coordination, durable decisions, and human control across technical work. |
 
-## Areas I work in
+## Systems I know how to build
 
-- Payment APIs, open banking, stablecoins, digital cash, treasury, and reconciliation
-- Smart contracts, wallets, exchange infrastructure, routing, indexing, and SDKs
-- AI agents, automation, internal operating systems, and human approval workflows
-- TypeScript, JavaScript, C#, Python, Solidity, React, Next.js, APIs, databases, and cloud infrastructure
-- Product architecture, security boundaries, developer experience, observability, and delivery systems
+| Area | Working portfolio |
+| --- | --- |
+| [Agentic systems](https://github.com/J0UH/agentic-systems) | Durable agents, controlled tools, memory, evaluation, and human authority in real operating environments. |
+| [Exchange and market infrastructure](https://github.com/J0UH/exchange-market-infrastructure) | DEX, CEX and DAX architecture, routing, liquidity, market data, orders, settlement, and operations. |
+| [Open finance and payments](https://github.com/J0UH/open-finance-payments) | Bank-to-bank payments, merchant products, credentials, webhooks, reconciliation, and integration experience. |
+| [Stablecoin infrastructure](https://github.com/J0UH/stablecoin-infrastructure) | Issuance, digital cash, contract operations, vaults, bridges, service platforms, and usable product controls. |
+| [Money and operations systems](https://github.com/J0UH/money-operations-systems) | ERP, CRM, treasury, reconciliation, work management, and the operating state behind financial products. |
+| [Product engineering](https://github.com/J0UH/product-engineering) | Product architecture, interfaces, developer experience, delivery, documentation, and systems that survive production. |
 
 ## How I work
 
-I care about systems that are understandable, operable, and resilient—not merely impressive in a demo. I prefer explicit ownership of state, evidence over assumptions, clear authority boundaries, and product interfaces that help people understand what the system is doing.
+I do not enjoy motion for its own sake. The useful question is usually smaller: what creates value now, what must be true for it to work, and which risks become expensive if we postpone them?
 
-## Private company work
+That leads to a practical way of building:
 
-Aryze's private source code remains private and owned by Aryze. The linked portfolio repositories are documentation-only case studies: they describe capabilities and my contribution without publishing company code, credentials, customer information, private architecture, or proprietary operating details.
+- Start with the real operating problem, not the fashionable architecture.
+- Build the valuable path first and state its limits honestly.
+- Keep authority, evidence, and ownership explicit.
+- Use existing systems when they fit, then adapt and orchestrate them responsibly.
+- Stay close to implementation, users, and operations.
+- Make licensing, security, and maintainability part of the design.
 
-The work described is company and team work. Where systems build on open source, authorship and licensing remain with the upstream projects and their maintainers.
+Teams, employees, contractors, and specialists have been part of much of this work. That collaboration does not make the architecture or engineering experience less real. It is how serious products get built.
+
+## Aryze work
+
+I co-founded Aryze and have worked across its technical and product foundations. Work produced under the Aryze umbrella remains private and owned by Aryze. The linked pages explain systems, decisions, and capabilities without publishing company source, customer data, credentials, or private operating details.
+
+## Personal site
+
+A fuller website portfolio is in preparation. It will use these project pages as the technical source and add a more visual path for recruiters, founders, engineers, and anyone arriving from elsewhere on the internet.
