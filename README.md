@@ -126,7 +126,6 @@ I start with the operating problem and the smallest version that creates real va
   <strong>I like difficult systems with a useful outcome.</strong><br /><br />
   Payment infrastructure, programmable assets, digital settlement, and AI operations all become interesting at the point where product ambition meets real authority, evidence, and recovery.<br /><br />
   Building something similar, or trying to untangle a system that already exists? <a href="mailto:ju@jomena.group?subject=A%20system%20worth%20building">Email me with the context</a>.<br /><br />
-  <sub>A personal site is planned. This profile is the portfolio until it is ready.</sub>
 </td>
 </tr>
 </table>
