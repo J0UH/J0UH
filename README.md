@@ -13,49 +13,49 @@ Some work starts with an idea. Some starts with an existing system that needs to
 
 ### [MoneyOS](https://github.com/J0UH/moneyos-platform)
 
-<a href="https://github.com/J0UH/moneyos-platform"><img src="assets/cards/moneyos-platform-v2.webp" alt="MoneyOS: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/moneyos-platform"><img src="assets/cards/moneyos-platform-v3.webp" alt="Four graphite financial modules joined by a single amber rail" width="100%" /></a>
 
-Bank payments, programmable assets, and settlement meet in one financial system. This is where I work on the relationship between the money record and the work happening around it.
+Bringing bank payments, programmable assets, and settlement into one system. My focus is keeping the financial record, the operator’s view, and AI-assisted workflows in step.
 
 [Read the story](https://github.com/J0UH/moneyos-platform)
 
 ### [Personal AI employee](https://github.com/J0UH/personal-ai-employee)
 
-<a href="https://github.com/J0UH/personal-ai-employee"><img src="assets/cards/personal-ai-employee-v2.webp" alt="Personal AI employee: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/personal-ai-employee"><img src="assets/cards/personal-ai-employee-v3.webp" alt="Two graphite task rails linked across a break by a lavender checkpoint" width="100%" /></a>
 
-A personal project about an AI worker that can keep an assignment moving through interruptions. The interesting part is giving it enough continuity to resume and enough judgment to ask.
+An AI worker should be able to pick up where it left off. This personal project explores saved progress, decisions that stay with the assignment, and results checked before reporting completion.
 
 [Read the story](https://github.com/J0UH/personal-ai-employee)
 
 ### [Exchange and market infrastructure](https://github.com/J0UH/exchange-market-infrastructure)
 
-<a href="https://github.com/J0UH/exchange-market-infrastructure"><img src="assets/cards/exchange-market-infrastructure-v2.webp" alt="Exchange and market infrastructure: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/exchange-market-infrastructure"><img src="assets/cards/exchange-market-infrastructure-v3.webp" alt="Four graphite market routes converge on a teal hub with two outgoing paths" width="100%" /></a>
 
-Quotes, routes, liquidity, and settlement all move at different speeds. This work connects the exchange experience to the data and operator tools that explain what happened.
+Following a trade from quote to settlement across venues, routes, and liquidity. I work on the interfaces, integrations, and operator tools that explain each step and help resolve exceptions.
 
 [Read the story](https://github.com/J0UH/exchange-market-infrastructure)
 
 ### [Cadence](https://github.com/J0UH/cadence-work-management)
 
-<a href="https://github.com/J0UH/cadence-work-management"><img src="assets/cards/cadence-work-management-v2.webp" alt="Cadence: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/cadence-work-management"><img src="assets/cards/cadence-work-management-v3.webp" alt="Graphite task blocks pass through an amber commitment gate along a shared rail" width="100%" /></a>
 
-A calmer way for small teams to keep track of their commitments. I am interested in preserving the story behind a task as well as its current place in a sprint.
+A quieter way for small teams to plan sprints and keep their commitments visible. Cadence preserves ownership and change history, so moving a task doesn’t lose the reason behind it.
 
 [Read the story](https://github.com/J0UH/cadence-work-management)
 
 ### [Digital sales systems](https://github.com/J0UH/digital-sales-systems)
 
-<a href="https://github.com/J0UH/digital-sales-systems"><img src="assets/cards/digital-sales-systems-v2.webp" alt="Digital sales systems: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/digital-sales-systems"><img src="assets/cards/digital-sales-systems-v3.webp" alt="Four open geometric frames reveal working mechanisms connected by an orange shaft" width="100%" /></a>
 
-Interactive product pages that make complex technology easier to understand. A place where visual design, product thinking, and engineering meet.
+Interactive product pages that explain how complex technology works and where it fits. I combine visual design, reusable content, and engineering to help a reader decide what to explore next.
 
 [Read the story](https://github.com/J0UH/digital-sales-systems)
 
 ### [Developer platform and delivery](https://github.com/J0UH/developer-platform-delivery)
 
-<a href="https://github.com/J0UH/developer-platform-delivery"><img src="assets/cards/developer-platform-delivery-v2.webp" alt="Developer platform and delivery: a crafted architectural model with parts of its structure still visible as sketch" width="100%" /></a>
+<a href="https://github.com/J0UH/developer-platform-delivery"><img src="assets/cards/developer-platform-delivery-v3.webp" alt="A graphite delivery pipeline passes through three inspection gates above an orange return path" width="100%" /></a>
 
-The foundations behind a working product: APIs, deployments, and the tools to see what is happening and recover when a release needs attention.
+A clear path from a product change to a running release. My work covers APIs, deployment automation, and the observations and recovery tools needed when something goes wrong.
 
 [Read the story](https://github.com/J0UH/developer-platform-delivery)
 
