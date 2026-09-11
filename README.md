@@ -45,7 +45,7 @@ A quieter way for small teams to plan sprints and keep their commitments visible
 
 ### [Digital sales systems](https://github.com/J0UH/digital-sales-systems)
 
-<a href="https://github.com/J0UH/digital-sales-systems"><img src="assets/cards/digital-sales-systems-v3.webp" alt="Four open geometric frames reveal working mechanisms connected by an orange shaft" width="100%" /></a>
+<a href="https://github.com/J0UH/digital-sales-systems"><img src="assets/cards/digital-sales-systems-v4.webp" alt="Four open geometric frames reveal working mechanisms connected by an orange shaft" width="100%" /></a>
 
 Interactive product pages that explain how complex technology works and where it fits. I combine visual design, reusable content, and engineering to help a reader decide what to explore next.
 
