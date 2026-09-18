@@ -2,10 +2,14 @@
 
 I build payment systems, AI workflows, and products that make complicated work easier to handle. I like being close to the interface, the machinery underneath it, and the people who have to use and run it.
 
+## Latest
+
+**[pstack for Codex](https://github.com/J0UH/pstack-codex)** — open-source agent workflow library for Codex. Install it, activate poteto-mode, get evidence back.
+
 ## Selected work
 
 **[MoneyOS](https://github.com/J0UH/moneyos-platform)** — bank payments, programmable assets, and settlement in one operable system.  
-*ARYZE · live product context: [aryze.io](https://aryze.io)*
+*ARYZE · in production · [aryze.io](https://aryze.io)*
 
 **[Exchange and market infrastructure](https://github.com/J0UH/exchange-market-infrastructure)** — quote to settlement across venues, routes, and liquidity.
 
@@ -16,8 +20,6 @@ I build payment systems, AI workflows, and products that make complicated work e
 **[Personal AI employee](https://github.com/J0UH/personal-ai-employee)** — saved progress, durable decisions, results checked before completion.
 
 **[Digital sales systems](https://github.com/J0UH/digital-sales-systems)** — interactive product pages that explain complex technology and where it fits.
-
-**[pstack for Codex](https://github.com/J0UH/pstack-codex)** — public workflow library (real source).
 
 ## More by theme
 
